@@ -140,14 +140,14 @@ the village all the way to protecting the King."}
 					/character_handling/class/special/necromancer
 				)
 				class_id = "bovinia_special"
-		/*cowmalot
+		cowmalot
 			name = "Cowmalot"
 			icon_state = "cowmalot_king"
 			desc = {"The Cowmalot Kingdom is a partially democratic kingdom after an uprising changed the local laws.
 Although the King sits on the throne they act on behalf of the public and you'll often see votes held on all kinds of
 decisions.
 There is no set religion in Cowmalot allowing for freedom of religion.
-Because the law is not set in stone and depends on public opinion, you'll want to avoid being an outcast in this small town."}*/
+Because the law is not set in stone and depends on public opinion, you'll want to avoid being an outcast in this small town."}
 	class
 		var
 			amount = -1 //-1 = infinite

@@ -1,11 +1,12 @@
 // BEGIN_INTERNALS
 /*
-MAP_ICON_TYPE: 0
-WINDOW: coding\new_admin\global.dm;coding\world.dm;coding\client.dm;coding\items\armour.dm;coding\new_admin\admin_panel.dm;Void Wall.dmi;code\Admin.dm;code\dta_ckey2key.dm;code\Cowed.dm;code\anispw.dm;code\armour.dm;code\banz.dm;code\browser.dm;coding\mobs.dm;coding\new_admin\admin.dm;coding\objs.dm
-LAST_COMPILE_VERSION: 501.1216
-DIR: code coding coding\admin coding\items coding\new_admin coding\new_admin\panel External 
-FILE: coding\world.dm
-LAST_COMPILE_TIME: 1391005792
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1560085960
+DIR: Clothes code coding coding\admin coding\items coding\new_admin coding\new_admin\panel coding\snippets interface maps 
 AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 512.1470
+WINDOW: coding\new_admin\global.dm;coding\world.dm;coding\client.dm;coding\items\armour.dm;coding\new_admin\admin_panel.dm;Void Wall.dmi;code\Admin.dm;code\dta_ckey2key.dm;code\Cowed.dm;code\anispw.dm;code\armour.dm;code\banz.dm;code\browser.dm;coding\mobs.dm;coding\snippets\replaceText.dm;coding\new_admin\log.dm;coding\new_admin\admin.dm;coding\new_admin\player.dm;maps\kingdoms.dmm;code\Building.dm;coding\admin.dm;code\Mining.dm;coding\admin\admin.dm;coding\admin\module.dm;coding\character_handling.dm;coding\classes.dm;code\eating.sleeping and health.dm;coding\berry_effects.dm
+FILE: coding\classes.dm
 */
 // END_INTERNALS

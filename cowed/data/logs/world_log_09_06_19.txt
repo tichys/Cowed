@@ -1,0 +1,105 @@
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+World opened on network port 1055.
+runtime error: Cannot read null.name
+proc name: add layer (/proc/add_layer)
+  source file: layers.dm,9
+  usr: (src)
+  src: null
+  call stack:
+add layer(null, 1)
+the stairs (/obj/stairs): New(the stone floor (52,47,2) (/turf/stone/stone_floor))
+runtime error: Cannot read null.map_layer
+proc name: New (/obj/stairs/New)
+  source file: objs.dm,323
+  usr: null
+  src: the stairs (/obj/stairs)
+  src.loc: the wood floor (56,47,3) (/turf/wooden/wood_floor)
+  call stack:
+the stairs (/obj/stairs): New(the wood floor (56,47,3) (/turf/wooden/wood_floor))
+runtime error: Cannot read null.map_layer
+proc name: New (/obj/stairs/New)
+  source file: objs.dm,323
+  usr: null
+  src: the stairs (/obj/stairs)
+  src.loc: the wood floor (57,47,3) (/turf/wooden/wood_floor)
+  call stack:
+the stairs (/obj/stairs): New(the wood floor (57,47,3) (/turf/wooden/wood_floor))
+runtime error: Cannot read null.map_layer
+proc name: New (/obj/stairs/New)
+  source file: objs.dm,323
+  usr: null
+  src: the stairs (/obj/stairs)
+  src.loc: the stone floor (55,234,3) (/turf/stone/stone_floor)
+  call stack:
+the stairs (/obj/stairs): New(the stone floor (55,234,3) (/turf/stone/stone_floor))
+runtime error: Cannot read null.map_layer
+proc name: New (/obj/stairs/New)
+  source file: objs.dm,323
+  usr: null
+  src: the stairs (/obj/stairs)
+  src.loc: the stone floor (56,234,3) (/turf/stone/stone_floor)
+  call stack:
+the stairs (/obj/stairs): New(the stone floor (56,234,3) (/turf/stone/stone_floor))
+runtime error: Cannot read null.map_layer
+proc name: New (/obj/stairs/New)
+  source file: objs.dm,323
+  usr: null
+  src: the stairs (/obj/stairs)
+  src.loc: the stone floor (57,234,3) (/turf/stone/stone_floor)
+  call stack:
+the stairs (/obj/stairs): New(the stone floor (57,234,3) (/turf/stone/stone_floor))
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+World opened on network port 1055.
+runtime error: Cannot read null.players
+proc name: Del (/world/Del)
+  source file: world.dm,119
+  usr: null
+  src: world
+  call stack:
+world: Del()
+World opened on network port 1055.
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+Sun Jun 09 08:58:03 2019
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+Sun Jun 09 10:28:33 2019
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+Sun Jun 09 11:59:06 2019
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+Sun Jun 09 13:30:16 2019
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+BYOND Error: failed to parse savefile text at line 0 (reading 'html'): expecting ;
+LOGIN: Lestatanderson @ 127.0.0.1 (243146153)
+Sun Jun 09 14:54:35 2019
+LOGOUT: Lestatanderson @ 127.0.0.1 (243146153)

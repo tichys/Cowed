@@ -16,7 +16,7 @@
 
 
 proc
-    replacetext(haystack, needle, replace)
+    Exreplacetext(haystack, needle, replace)
         var
             pos = findtext(haystack, needle)
             needleLen = length(needle)
@@ -27,7 +27,7 @@ proc
             pos = findtext(haystack, needle, pos+replaceLen)
         return haystack
 
-    replaceText(haystack, needle, replace)
+    ExreplaceText(haystack, needle, replace)
         var
             pos = findtextEx(haystack, needle)
             needleLen = length(needle)

@@ -1,8 +1,8 @@
 world
 	name = "Cowed"
 	view = "15x17"
-	hub = "Cowed.Cowed"
-	hub_password = "ite7mpz6AaG9zTEm"
+	hub = "Lestatanderson.Cowed"
+	hub_password = ""
 	cache_lifespan = 0
 	mob = /mob/character_handling
 	turf = /turf/underground/dirtwall
@@ -234,7 +234,7 @@ var
 		tmp
 			admin_pms
 			gametypes = list("normal", "kingdoms", "peasants", "premade", "weregoat")
-			developers = list("androiddata", "levian", "14mrh4x0r", "androidlore", "w12w", "lyndonarmitage1","tomeno","noscopetoolbox")//list("oasiscircle", "androiddata", "levian", "14mrh4x0r") //list of hard-coded sadmins (can't be removed)
+			developers = list("lestatanderson", "levian", "14mrh4x0r", "androidlore", "w12w", "lyndonarmitage1","tomeno","noscopetoolbox")//list("oasiscircle", "androiddata", "levian", "14mrh4x0r") //list of hard-coded sadmins (can't be removed)
 			//custom_music = list('sounds/music/data1.ogg', 'sounds/music/data2.ogg', 'sounds/music/data3.ogg', 'sounds/music/data4.ogg', 'sounds/music/data5.ogg')
 			//custom_music = list('crossing.ogg', 'digsite.ogg', 'godmachine.ogg', 'godroom.ogg')
 			custom_music = list('empire.ogg', 'zeelich.ogg', 'futurama2.ogg', 'futurama_ahhh.ogg', 'futurama_rhell.ogg', 'swamp.ogg', 'swamp2.ogg', 'llament.ogg', 'rollercoaster.ogg', 'kateboat.ogg')
