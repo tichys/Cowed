@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/138/cowed/coding/snippets
+END
+replaceText.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/133/cowed/coding/snippets/replaceText.dm
+END
+dmp_reader.dm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/98/cowed/coding/snippets/dmp_reader.dm
+END
+BubbleSort.dm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/138/cowed/coding/snippets/BubbleSort.dm
+END
+PixelProjectiles.dm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/26/cowed/coding/snippets/PixelProjectiles.dm
+END
+ActionLock.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/cowed/coding/snippets/ActionLock.dm
+END
+angle.dm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/26/cowed/coding/snippets/angle.dm
+END
+findTexts.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/47/cowed/coding/snippets/findTexts.dm
+END
+estimate_time.dm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/cowed/coding/snippets/estimate_time.dm
+END
+sd_DynamicAreaLighting.dm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/123/cowed/coding/snippets/sd_DynamicAreaLighting.dm
+END
+duplicate.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/60/cowed/coding/snippets/duplicate.dm
+END
+SwapMaps.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/124/cowed/coding/snippets/SwapMaps.dm
+END
+trim.dm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/98/cowed/coding/snippets/trim.dm
+END
+PhaseIcons.dm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/cowed/coding/snippets/PhaseIcons.dm
+END
+cacheicon.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/cowed/coding/snippets/cacheicon.dm
+END

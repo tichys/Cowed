@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/146/cowed/coding/new_admin
+END
+global.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/128/cowed/coding/new_admin/global.dm
+END
+log.dm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/92/cowed/coding/new_admin/log.dm
+END
+player_extras.dm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/128/cowed/coding/new_admin/player_extras.dm
+END
+admin_panel.dm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/146/cowed/coding/new_admin/admin_panel.dm
+END
+admin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/145/cowed/coding/new_admin/admin.dm
+END
+player.dm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/138/cowed/coding/new_admin/player.dm
+END

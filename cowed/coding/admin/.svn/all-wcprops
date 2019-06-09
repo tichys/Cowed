@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/115/cowed/coding/admin
+END
+module.dm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/54/cowed/coding/admin/module.dm
+END
+admin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/91/cowed/coding/admin/admin.dm
+END
+pm.dm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/48/cowed/coding/admin/pm.dm
+END
+computer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/115/cowed/coding/admin/computer.dm
+END

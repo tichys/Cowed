@@ -1,0 +1,59 @@
+A /berry_effects datum is key to the effects that a berry produces.
+
+The datum contains variables for every effect that a berry can produce.
+(please give it a proper name!)
+
+It also contains a few procs to be able to add to and substract from
+another /berry_effects datum. Basically what this does is take the total
+sum of the variables on both datums and divide those by 2.
+If the variable on either side is 0 then the variable is not added but
+the original variable is kept.
+
+Food and berries have an "effects" variable which is linked to a
+/berry_effects datum or null if there are no effects.
+
+Berries start with a preconfigured /berry_effects datum which has
+the default value for that berry.
+
+Mobs also have an "effects" datum which is used in determining the current
+effects. This also means that you can counter the effects of berry A by
+using berry B real quick.
+
+Mixing berries basically uses the Add proc on the target /berry_effects
+datum to add it to the other. Then the berry icon is added to the other
+berry icon, after which an overlay is Blend()ed to the finished icon in
+order to preserve the original black border.
+
+Ta-da! Add a click & drag system to initiate the mixing of berries and
+adding berries to food and you've got a robust berry mixing system. The
+effects of berries can even be negated if you mix the antigen of an effect
+together. i.e., caffeine would basically have a /berry_effects datum with a
+negative value for the "sleep" effect.
+
+"sleep" berry: 10 sleep effect
+"poison" berry: 10 poison effect
+"food" berry: 10 food effect
+"hunger" berry: -16 food effect
+"caffeine": -12 sleep effect
+"heal" berry: 10 endurance effect
+
+The "hurt" berry should be removed as it makes no sense.
+The "endurance" effect allows you to withstand a bit of damage. A multiplier
+should be used to reduce incoming damage by 1-2%. It counters poison a bit and
+stops poison from continuing (though less poison will be removed from the body).
+
+Now as I explained you can combine berries. If you were to combine a
+"sleep" and "poison" berry, the result is:
+	10 + 0 = 10 sleep
+	10 + 0 = 10 poison
+In this case the effects are just added to each other.
+
+But if you mix a sleep berry and caffeine you'll get this:
+	10 - 12 = -2 sleep
+Because sleep < 0, it will actually have a positive effect
+and increase your sleep for a bit instead of draining it.
+
+Note that effects should happen slowly using the Life() proc on the mobs.
+This means that you'll need to mix a bunch of sleep berries in order to
+create a very potent sleep drug that will eventually wear off, but just
+eating a single berry will only make you a bit sleepy.

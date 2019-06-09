@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/155/cowed/coding
+END
+dta_admin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/93/cowed/coding/dta_admin.dm
+END
+hud.dm
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/126/cowed/coding/hud.dm
+END
+family.dm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/128/cowed/coding/family.dm
+END
+berry_effects.dm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/154/cowed/coding/berry_effects.dm
+END
+atoms.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/145/cowed/coding/atoms.dm
+END
+projectiles.dm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/113/cowed/coding/projectiles.dm
+END
+map_editor.dm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/146/cowed/coding/map_editor.dm
+END
+dta_player.dm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/94/cowed/coding/dta_player.dm
+END
+map_objects.dm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/138/cowed/coding/map_objects.dm
+END
+procs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/138/cowed/coding/procs.dm
+END
+world.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/154/cowed/coding/world.dm
+END
+changelog.dm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/48/cowed/coding/changelog.dm
+END
+admin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/154/cowed/coding/admin.dm
+END
+holodeck.dm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/98/cowed/coding/holodeck.dm
+END
+areas.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/137/cowed/coding/areas.dm
+END
+objs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/154/cowed/coding/objs.dm
+END
+classes.dm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/144/cowed/coding/classes.dm
+END
+computer.dm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/136/cowed/coding/computer.dm
+END
+character_handling.dm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/146/cowed/coding/character_handling.dm
+END
+mobs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/155/cowed/coding/mobs.dm
+END
+new_admin.dm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/92/cowed/coding/new_admin.dm
+END
+spells.dm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/107/cowed/coding/spells.dm
+END
+turfs.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/154/cowed/coding/turfs.dm
+END
+voting.dm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/138/cowed/coding/voting.dm
+END
+boats.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/108/cowed/coding/boats.dm
+END
+game.dm
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/138/cowed/coding/game.dm
+END
+paint.dm
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/151/cowed/coding/paint.dm
+END
+client.dm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/153/cowed/coding/client.dm
+END
